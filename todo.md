@@ -1,4 +1,4 @@
-[] Start with vite
+[x] Start with vite
 
 [] config AntD
 
